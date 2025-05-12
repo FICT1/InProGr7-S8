@@ -1,11 +1,11 @@
 #while
 i = 1
-j = 0
+j = 1
 
 while i < 4:
-    while j < 3:
-        j += 1
+    while j < 4:
         print (i,j)
+        j += 1
     i += 1
-    j = 0
+    j = 1
 
