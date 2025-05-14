@@ -1,5 +1,5 @@
-# Integrantes del trabajo final
+# Practica_Grupal
 ## Josue Espinoza
 ## Carlos Balmaceda
 ## Joshua Sainz
-## Franklin Callejas
+## Franklin Callejas  
